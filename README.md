@@ -1,1 +1,2 @@
 # Diabetes-prediction
+The Diabetes Prediction project aimed to predict the likelihood of diabetes in individuals using Logistic Regression. By analyzing a dataset with various health-related features (such as age, BMI, glucose levels, and insulin), I built a predictive model to classify individuals as either diabetic or non-diabetic. The model was trained, evaluated, and fine-tuned using performance metrics like accuracy, precision, and recall, providing valuable insights for early detection and prevention strategies in healthcare.
